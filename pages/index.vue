@@ -1,12 +1,18 @@
 <template>
-  <div class="bg-primary min-h-screen flex flex-col pb-10">
+  <div class="bg-primary min-h-screen flex flex-col pb-16">
     <Topbar :activeMenu="activeMenu" />
-    <section class="flex-grow flex flex-col lg:flex-row justify-center items-center p-6 lg:pr-36 lg:pl-36">
+    <Logo />
+    <!-- site title -->
+    <!-- <h2 class="text-xl text-white text-center text-3xl lg:text-4xl mt-10 font-bold">Unraveling Excellence with <span class="custom-color">0xByte's</span></h2> -->
+    <!-- <h2 class="text-xl text-white text-center text-3xl lg:text-4xl mt-10 font-bold">Unraveling Excellence with <span class="custom-color">0xByte's</span></h2> -->
+
+    <!-- site content -->
+    <section class="flex-grow flex flex-col lg:flex-row justify-center items-center lg:pr-36 lg:pl-36">
       <!-- Left Side (text) -->
       <div class="w-full lg:w-1/2 text-white text-center lg:text-left">
-        <h2 class="text-xl md:text-2xl lg:text-3xl font-semibold mb-8">Unraveling Excellence with <span class="custom-color">0xByte's</span></h2>
+        <h3 class="text-xl md:text-3xl lg:text-4xl font-semibold mb-8">Unraveling Excellence with 0<span class="text-blue">xByte's</span></h3>
         <p class="mb-10 leading-loose text-1xl">
-          Discover excellence with 0xByte – your guide to embracing the digital frontier. We specialize in decoding complexities, offering insights, and empowering businesses with transformative solutions. Our passion lies in unraveling innovation, one byte at a time. Join us on a journey of growth and possibilities.
+          Discover excellence with 0<span class="text-blue">xByte</span> – your guide to embracing the digital frontier. We specialize in decoding complexities, offering insights, and empowering businesses with transformative solutions. Our passion lies in unraveling innovation, one byte at a time. Join us on a journey of growth and possibilities.
         </p>
         <div class="flex justify-center lg:justify-start space-x-4">
           <button class="outline outline-sky-500 rounded focus:outline-none hover:bg-cyan-500 duration-300" style="padding: 10px 20px; border-radius: 8px;">
