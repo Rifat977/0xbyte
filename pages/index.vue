@@ -2,10 +2,7 @@
   <div class="bg-primary min-h-screen flex flex-col pb-16">
     <Topbar :activeMenu="activeMenu" />
     <Logo />
-    <!-- site title -->
-    <!-- <h2 class="text-xl text-white text-center text-3xl lg:text-4xl mt-10 font-bold">Unraveling Excellence with <span class="custom-color">0xByte's</span></h2> -->
-    <!-- <h2 class="text-xl text-white text-center text-3xl lg:text-4xl mt-10 font-bold">Unraveling Excellence with <span class="custom-color">0xByte's</span></h2> -->
-
+    
     <!-- site content -->
     <section class="flex-grow flex flex-col lg:flex-row justify-center items-center lg:pr-36 lg:pl-36">
       <!-- Left Side (text) -->
