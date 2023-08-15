@@ -10,7 +10,7 @@
     >
       <div
         :class="{ 'bg-blue': activeMenu === menuItem.id, 'bg-transparent': activeMenu !== menuItem.id }"
-        class="w-12 h-12 flex flex-col items-center justify-center rounded-full transition duration-300"
+        class="w-10 h-10 flex flex-col items-center justify-center rounded-full transition duration-300"
       >
         <i
           v-if="menuItem.icon !== '0xByte'"
