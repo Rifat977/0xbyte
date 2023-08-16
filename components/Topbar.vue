@@ -9,7 +9,7 @@
       :to="menuItem.id === 'home' ? '/' : menuItem.id"
     >
       <div
-        :class="{ 'bg-blue': activeMenu === menuItem.id, 'bg-transparent': activeMenu !== menuItem.id }"
+        :class="{ 'bg-gradient-to-r from-sky-600 to-blue-500 hover:to-sky-600': activeMenu === menuItem.id, 'bg-transparent': activeMenu !== menuItem.id }"
         class="w-10 h-10 flex flex-col items-center justify-center rounded-full transition duration-300"
       >
         <i
@@ -32,10 +32,10 @@ export default {
   data() {
     return {
       menuItems: [
-        { id: 'about', icon: 'fas fa-info-circle', name: 'About' },
-        { id: 'project', icon: 'fas fa-info-circle', name: 'Project' },
+        { id: 'about', icon: 'fas fa-users', name: 'About' },
+        { id: 'project', icon: 'fa-solid fa-code', name: 'Project' },
         { id: 'home', icon: 'fas fa-home', name: 'Home' },
-        { id: 'services', icon: 'fas fa-cogs', name: 'Services' },
+        { id: 'services', icon: 'fas fa-toolbox', name: 'Services' },
         { id: 'contact', icon: 'fas fa-envelope', name: 'Contact' },
       ],
     };

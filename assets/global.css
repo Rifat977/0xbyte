@@ -1,5 +1,5 @@
   .bg-primary {
-    background: linear-gradient(135deg, #1d3a70, #134864, #25333a, #1e4067, #3f5d5f);
+    background: linear-gradient(135deg, #192A56, #025480, #273c75, #274381, #48273d);
     background-size: 400% 400%;
     animation: gradientAnimation 15s ease infinite;
   }

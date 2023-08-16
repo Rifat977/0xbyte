@@ -12,7 +12,7 @@
           Discover excellence with 0<span class="text-blue">xByte</span> – your guide to embracing the digital frontier. We specialize in decoding complexities, offering insights, and empowering businesses with transformative solutions. Our passion lies in unraveling innovation, one byte at a time. Join us on a journey of growth and possibilities.
         </p>
         <div class="flex justify-center lg:justify-start space-x-4">
-          <button class="outline outline-sky-500 rounded focus:outline-none hover:bg-cyan-500 duration-300" style="padding: 10px 20px; border-radius: 8px;">
+          <button class="outline outline-blue-500 rounded focus:outline-none hover:bg-blue-500 duration-300" style="padding: 10px 20px; border-radius: 8px;">
             Get Started
           </button>
         </div>
