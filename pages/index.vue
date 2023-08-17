@@ -5,8 +5,8 @@
     <!-- site content -->
     <section class="flex-grow flex flex-col lg:flex-row justify-center items-center lg:pr-36 lg:pl-36">
       <!-- Left Side (text) -->
-      <div class="w-full lg:w-1/2 text-white text-center lg:text-left mt-8 lg:mt-0">
-        <h3 class="text-xl md:text-3xl lg:text-4xl font-semibold mb-8">Driving Software Evolution, One Byte at a Time</h3>
+      <div class="w-full lg:w-1/2 text-white text-center lg:text-left mt-4 lg:mt-0">
+        <h3 class="text-xl md:text-3xl lg:text-4xl font-semibold mb-8 mx-4 lg:mx-0">Driving Software Evolution, One Byte at a Time</h3>
         <p class="mb-10 leading-loose text-1xl">
           Discover excellence with 0<span class="text-blue">xByte</span> – your guide to embracing the digital frontier. We specialize in decoding complexities, offering insights, and empowering businesses with transformative solutions. Our passion lies in unraveling innovation, one byte at a time. Join us on a journey of growth and possibilities.
         </p>

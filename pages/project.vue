@@ -22,10 +22,7 @@
                 </h3>
                 <div class="mt-2 text-sm text-gray-500">
                   <p>
-                    This is a sample paragraph text that you can replace with your own content. You can use Tailwind CSS classes to style the text, such as <span class="font-semibold text-blue-500">font-semibold</span> for bold text and <span class="italic">italic</span> for italic text.
-                  </p>
-                  <p class="mt-1">
-                    You can also adjust the margins with classes like <span class="text-red-500">mt-1</span> for margin-top and <span class="text-red-500">mb-2</span> for margin-bottom.
+                    This is for title
                   </p>
                 </div>
               </div>
