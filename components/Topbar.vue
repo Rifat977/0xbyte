@@ -18,7 +18,6 @@
             activeMenu === menuItem.id ? 'text-white' : 'text-white'
           ]"
         ></i>
-        <!-- <div v-if="menuItem.icon !== '0xByte'" class="text-xs mt-1 text-blue">{{ menuItem.name }}</div> -->
       </div>
     </nuxt-link>
   </div>
