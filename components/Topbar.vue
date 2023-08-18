@@ -9,7 +9,7 @@
       :to="menuItem.id === 'home' ? '/' : menuItem.id"
     >
       <div
-        :class="{ 'bg-gradient-to-r from-sky-600 to-blue-500 hover:to-sky-600': activeMenu === menuItem.id, 'bg-transparent': activeMenu !== menuItem.id }"
+        :class="{ 'bg-gradient-to-r from-sky-600 to-blue-500 hover:to-sky-600': activeMenu === menuItem.id, 'bg-slate-900': activeMenu !== menuItem.id }"
         class="w-10 h-10 flex flex-col items-center justify-center rounded-full transition duration-300"
       >
         <i
