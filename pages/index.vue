@@ -23,7 +23,7 @@
     </section>
     <section class="py-8 text-center">
       <div class="container mx-auto">
-        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-8">
+        <div class="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-8">
           
           <div class="flex flex-col items-center"> 
             <div class="rounded-lg p-2 mt-4 text-center">

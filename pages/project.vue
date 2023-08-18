@@ -5,25 +5,35 @@
     <div class="flex items-center mx-3 md:mx-8 lg:mx-20 mt-8 md:mt-0 lg:mt-4">
       <hr class="flex-grow border-t-1 border-sky-500 ml-4">
       <h3
-        class="bg-gradient-to-r from-sky-600 to-indigo-500 text-white text-xl md:text-1xl lg:text-2xl font-bold py-2 px-4 ml-4 rounded-md">
+        class="text-white text-xl md:text-1xl lg:text-2xl font-bold py-2 px-4 ml-4 rounded-md" style="background: linear-gradient(135deg, #011d44, #17386e, #122652);">
         Our Projects
       </h3>
       <hr class="flex-grow border-t-1 border-blue-500 ml-4">
-    </div> 
+    </div>
 
-    <div class="py-8">
+    <div class="mt-6">
       <div class="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="bg-white overflow-hidden shadow-xl sm:rounded-lg">
-          <div class="px-4 py-5 sm:p-6">
-            <div class="sm:flex sm:items-center">
-              <div class="text-center sm:text-left">
-                <h3 class="text-lg leading-6 font-medium text-gray-900">
-                  Card Title
-                </h3>
-                <div class="mt-2 text-sm text-gray-500">
-                  <p>
-                    This is for title
-                  </p>
+        <div class="grid grid-cols-1 gap-6 md:grid-cols-2">
+          <!-- Card 1 -->
+          <div class="overflow-hidden shadow-xl sm:rounded-lg" style="background: linear-gradient(135deg, #011d44, #214378, #122652);">
+            <div class="px-4 py-5 sm:p-6">
+              <div class="sm:flex sm:items-center">
+                <div class="text-center sm:text-left">
+                  <h3 class="font-medium text-white">
+                    Welcome to our project showcase, where innovation meets code. Our journey is marked by a series of captivating website projects that embody creativity, functionality, and user-centric design. With a passion for pushing boundaries, we've brought ideas to life for businesses and individuals alike.
+                  </h3>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- Card 2 -->
+          <div class="overflow-hidden shadow-xl sm:rounded-lg" style="background: linear-gradient(135deg, #011d44, #214378, #122652);">
+            <div class="px-4 py-5 sm:p-6">
+              <div class="sm:flex sm:items-center">
+                <div class="text-center sm:text-left">
+                  <h3 class="font-medium text-white">
+                    Welcome to our project showcase, where innovation meets code. Our journey is marked by a series of captivating website projects that embody creativity, functionality, and user-centric design. With a passion for pushing boundaries, we've brought ideas to life for businesses and individuals alike.
+                  </h3>
                 </div>
               </div>
             </div>
@@ -32,7 +42,8 @@
       </div>
     </div>
 
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mt-8 md:mt-6 lg:mt-4 mx-4 md:mx-8 lg:mx-20">
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mt-8 md:mt-6 lg:mt-8 mx-4 md:mx-8 lg:mx-20">
       <!-- Card 1 -->
       <Card />
       <Card />
