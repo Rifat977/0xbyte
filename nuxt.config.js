@@ -1,7 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Home - Driving Software Evolution, One Byte at a Time :0xByte',
+    title: 'Driving Software Evolution, One Byte at a Time :0xByte',
     htmlAttrs: {
       lang: 'en'
     },

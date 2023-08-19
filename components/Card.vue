@@ -3,7 +3,7 @@
           <img src="~/assets/project.jpg" alt="Project Image" class="w-full object-cover mb-4 rounded-md">
           <div class="px-6 py-4">
               <h4 class="text-xl font-semibold text-white mb-2">Project Title</h4>
-              <p class="text-white mb-4">Short description of the project.</p>
+              <p class="text-white mb-4">Category</p>
               <button class="bg-gradient-to-r from-sky-600 to-blue-500 hover:to-blue-600 text-white py-2 px-4 rounded-md shadow-md hover:shadow-lg focus:outline-none focus:ring focus:ring-blue-300 transition duration-300 ease-in-out">
                 Details View
               </button>
