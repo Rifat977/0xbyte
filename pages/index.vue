@@ -6,7 +6,7 @@
     <section class="flex-grow flex flex-col lg:flex-row justify-center items-center lg:pr-36 lg:pl-36">
       <!-- Left Side (text) -->
       <div class="w-full lg:w-1/2 text-white text-center lg:text-left mt-4 lg:mt-0">
-        <h3 class="text-xl md:text-3xl lg:text-4xl font-semibold mb-8 mx-4 lg:mx-0">Driving Software Evolution, One Byte at a Time</h3>
+        <h3 class="text-xl md:text-3xl lg:text-4xl font-semibold mb-8 mx-4 lg:mx-0">Driving Software Evolution, Infinity Byte at a Time</h3>
         <p class="mb-10 leading-loose text-1xl">
           Discover excellence with 0<span class="text-blue">xByte</span> – your guide to embracing the digital frontier. We specialize in decoding complexities, offering insights, and empowering businesses with transformative solutions. Our passion lies in unraveling innovation, one byte at a time. Join us on a journey of growth and possibilities.
         </p>
@@ -22,10 +22,10 @@
       </div>
     </section>
 
-    <section class="py-8 lg:pr-36 lg:pl-36">
+    <section class="py-8 mt-8 lg:pr-36 lg:pl-36">
       <div class="container px-4 lg:px-0">
         <div class="justify-center items-center">
-          <h2 class="text-4xl font-bold mb-10 text-center text-white"><i class="fa-solid fa-minus"></i> Quality Services</h2>
+          <h2 class="text-4xl font-bold mb-10 text-center text-white"><i class="fa-solid fa-minus"></i> 0xByte's Service Excellence</h2>
         </div>
         
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
