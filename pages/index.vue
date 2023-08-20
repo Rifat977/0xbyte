@@ -39,6 +39,46 @@
       </div>
     </section>
 
+    <div class="py-8 mt-8 lg:px-36">
+      <div class="container px-4 lg:px-0">
+        <div class="grid grid-cols-1 md:grid-cols-1 gap-8">
+          <!-- Product 1 -->
+          <div class="flex flex-col md:flex-row bg-white rounded-lg shadow-lg">
+            <div class="md:w-1/2">
+              <img src="https://media-public.canva.com/MADQ5lAvz60/1/screen.jpg" alt="Product 1" class="w-full h-auto md:h-48 lg:h-auto rounded-tl-lg rounded-bl-lg">
+              <!-- Use "md:h-48" for laptop devices -->
+            </div>
+            <div class="md:w-1/2 p-4 md:p-4">
+              <h2 class="text-2xl font-bold mb-2 mt-2">0xbyte's Point of Sale</h2>
+              <p class="text-gray-800 leading-loose">POS (Point of Sale) system is a innovative software solution that empowers businesses in the retail industry to streamline their operations and enhance customer experiences. 0xbyte's POS system optimizes the entire sales process. From tracking sales in real-time to managing customer loyalty programs.</p>
+              <button class="mt-4 bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600">Buy Now</button>
+            </div>
+          </div>
+
+
+
+
+          <!-- Product 2 -->
+          <div class="flex flex-col md:flex-row bg-white rounded-lg shadow-md">
+            <div class="md:w-1/2">
+              <img src="https://media-public.canva.com/7i6wg/MADyQ87i6wg/1/s.jpg" alt="Product 2" class="w-full h-auto">
+            </div>
+            <div class="md:w-1/2 p-4 md:p-4">
+              <h2 class="text-xl font-semibold mb-2">Product 2 Name</h2>
+              <p class="text-gray-600">Product 2 description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <button class="mt-4 bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600">Buy Now</button>
+            </div>
+          </div>
+
+          <!-- Add more product sections as needed -->
+
+        </div>
+      </div>
+    </div>
+
+
+
+
 
     <section class="py-8 text-center">
       <div class="container mx-auto">
