@@ -41,36 +41,38 @@
 
     <div class="py-8 mt-8 lg:px-36">
       <div class="container px-4 lg:px-0">
+        <div class="justify-center items-center">
+          <h2 class="text-4xl font-bold mb-12 text-center text-white"><i class="fa-solid fa-minus"></i> 0xByte's Works</h2>
+        </div>
         <div class="grid grid-cols-1 md:grid-cols-1 gap-8">
-          <!-- Product 1 -->
-          <div class="flex flex-col md:flex-row bg-white rounded-lg shadow-lg">
+
+          <div class="flex flex-col md:flex-row bg-transparent rounded-lg shadow-lg">
             <div class="md:w-1/2">
-              <img src="https://media-public.canva.com/MADQ5lAvz60/1/screen.jpg" alt="Product 1" class="w-full h-auto md:h-48 lg:h-auto rounded-tl-lg rounded-bl-lg">
-              <!-- Use "md:h-48" for laptop devices -->
+              <img src="https://cdn-developer-wp.arc.dev/wp-content/uploads/2021/12/Do-I-Need-a-Software-Engineering-Degree.jpg" alt="Product 1" class="w-full h-auto md:h-full rounded-lg">
             </div>
-            <div class="md:w-1/2 p-4 md:p-4">
-              <h2 class="text-2xl font-bold mb-2 mt-2">0xbyte's Point of Sale</h2>
-              <p class="text-gray-800 leading-loose">POS (Point of Sale) system is a innovative software solution that empowers businesses in the retail industry to streamline their operations and enhance customer experiences. 0xbyte's POS system optimizes the entire sales process. From tracking sales in real-time to managing customer loyalty programs.</p>
-              <button class="mt-4 bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600">Buy Now</button>
+            <div class="md:w-1/2 p-4 md:p-0 md:pl-4">
+              <h2 class="text-2xl font-bold mb-2 text-white">0xbyte's Point of Sale</h2>
+              <p class="leading-loose text-white">
+                POS (Point of Sale) system is a innovative software solution that empowers businesses in the retail industry to streamline their operations and enhance customer experiences. 0xbyte's POS system optimizes the entire sales process. From tracking sales in real-time to managing customer loyalty programs. 
+                POS (Point of Sale) system is a innovative software solution that empowers businesses in the retail industry to streamline their operations and enhance customer experiences. 0xbyte's POS system optimizes the entire sales process. From tracking sales in real-time to managing customer loyalty programs.
+              </p>
+              <button class="mt-6 mb-4 bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600">Order Now</button>
             </div>
           </div>
 
-
-
-
-          <!-- Product 2 -->
-          <div class="flex flex-col md:flex-row bg-white rounded-lg shadow-md">
+          <div class="flex flex-col md:flex-row bg-transparent rounded-lg shadow-lg">
             <div class="md:w-1/2">
-              <img src="https://media-public.canva.com/7i6wg/MADyQ87i6wg/1/s.jpg" alt="Product 2" class="w-full h-auto">
+              <img src="https://www.productplan.com/uploads/2019/12/software-development-lifecycle-1.png" alt="Product 1" class="w-full h-auto md:h-full rounded-lg">
             </div>
-            <div class="md:w-1/2 p-4 md:p-4">
-              <h2 class="text-xl font-semibold mb-2">Product 2 Name</h2>
-              <p class="text-gray-600">Product 2 description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-              <button class="mt-4 bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600">Buy Now</button>
+            <div class="md:w-1/2 p-4 md:p-0 md:pl-4">
+              <h2 class="text-2xl font-bold mb-2 text-white">0xbyte's CRM</h2>
+              <p class="leading-loose text-white">
+                POS (Point of Sale) system is a innovative software solution that empowers businesses in the retail industry to streamline their operations and enhance customer experiences. 0xbyte's POS system optimizes the entire sales process. From tracking sales in real-time to managing customer loyalty programs. 
+                POS (Point of Sale) system is a innovative software solution that empowers businesses in the retail industry to streamline their operations and enhance customer experiences. 0xbyte's POS system optimizes the entire sales process. From tracking sales in real-time to managing customer loyalty programs.
+              </p>
+              <button class="mt-6 mb-4 bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600">Order Now</button>
             </div>
           </div>
-
-          <!-- Add more product sections as needed -->
 
         </div>
       </div>
