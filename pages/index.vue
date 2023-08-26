@@ -68,7 +68,7 @@
               <h2 class="text-2xl font-bold mb-2 text-white">0xbyte's CRM</h2>
               <p class="leading-loose text-white">
                 POS (Point of Sale) system is a innovative software solution that empowers businesses in the retail industry to streamline their operations and enhance customer experiences. 0xbyte's POS system optimizes the entire sales process. From tracking sales in real-time to managing customer loyalty programs. 
-                POS (Point of Sale) system is a innovative software solution that empowers businesses in the retail industry to streamline their operations and enhance customer experiences. 0xbyte's POS system optimizes the entire sales process. From tracking sales in real-time to managing customer loyalty programs.
+                0xbyte's POS system optimizes the entire sales process. From tracking sales in real-time to managing customer loyalty programs.
               </p>
               <button class="mt-6 mb-4 bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600">Order Now</button>
             </div>

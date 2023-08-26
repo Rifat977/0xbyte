@@ -1,5 +1,5 @@
 <template>
-  <div class="sticky bottom-0 left-0 w-full bg-primary flex justify-between py-2 pl-4 pr-4 shadow" style="position: fixed;">
+  <div class="sticky bottom-0 left-0 w-full bg-primary flex justify-between py-2 pl-4 pr-4 shadow-xl z-10" style="position: fixed;">
     <nuxt-link
       v-for="(menuItem, index) in menuItems"
       :key="index"
