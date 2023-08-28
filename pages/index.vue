@@ -78,53 +78,60 @@
       </div>
     </div>
 
+    
     <div class="py-8 mt-8 lg:px-36">
-      <div class="container px-4 lg:px-0">
-        <div class="justify-center items-center">
-          <h2 class="text-4xl font-bold mb-12 text-center text-white">
-            <i class="fa-solid fa-minus"></i> Exclusive Products
-          </h2>
+  <div class="container px-4 lg:px-0">
+    <div class="text-center mb-12">
+      <h2 class="text-4xl font-bold text-white">
+        <i class="fas fa-minus text-indigo-500"></i> Exclusive Products
+      </h2>
+    </div>
+    
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+      <!-- Card 1 -->
+      <div class="bg-transparent rounded-lg shadow-xl p-6 relative flex">
+        <div class="mr-4">
+          <i class="fa-solid fa-shop text-blue-500 text-3xl"></i>
         </div>
-        
-        <div class="flex flex-wrap -mx-4">
-          <!-- Card 1 -->
-          <div class="w-full sm:w-1/2 lg:w-1/3 px-4 mb-4">
-            <div class="bg-white rounded-lg shadow-md p-6">
-              <div class="flex items-center mb-4">
-                <i class="fas fa-gem text-indigo-500 text-2xl"></i>
-                <h3 class="ml-2 text-lg font-semibold">Product 1</h3>
-              </div>
-              <p class="text-gray-600 mb-2">This is an exclusive product with amazing features.</p>
-              <p class="text-gray-600">Category: Jewelry</p>
-            </div>
-          </div>
-          
-          <!-- Card 2 -->
-          <div class="w-full sm:w-1/2 lg:w-1/3 px-4 mb-4">
-            <div class="bg-white rounded-lg shadow-md p-6">
-              <div class="flex items-center mb-4">
-                <i class="fas fa-camera text-green-500 text-2xl"></i>
-                <h3 class="ml-2 text-lg font-semibold">Product 2</h3>
-              </div>
-              <p class="text-gray-600 mb-2">Capture moments in style with this high-end camera.</p>
-              <p class="text-gray-600">Category: Electronics</p>
-            </div>
-          </div>
-          
-          <!-- Card 3 -->
-          <div class="w-full sm:w-1/2 lg:w-1/3 px-4 mb-4">
-            <div class="bg-white rounded-lg shadow-md p-6">
-              <div class="flex items-center mb-4">
-                <i class="fas fa-couch text-purple-500 text-2xl"></i>
-                <h3 class="ml-2 text-lg font-semibold">Product 3</h3>
-              </div>
-              <p class="text-gray-600 mb-2">Elevate your home decor with this luxurious couch.</p>
-              <p class="text-gray-600">Category: Furniture</p>
-            </div>
-          </div>
+        <div>
+          <h3 class="text-lg font-semibold text-white mb-2">Shop MS</h3>
+          <p class="text-gray-300">The all-in-all ERP Solution that can integrate every part of any Enterprise-level organization into one single platform.</p>
         </div>
+        <span class="bg-gradient-to-r from-sky-600 to-blue-500 hover:to-sky-600 text-white py-1 px-2 rounded-full text-sm absolute top-2 right-2">Jewelry</span>
+      </div>
+      
+      <!-- Card 2 -->
+      <div class="bg-transparent rounded-lg shadow-xl p-6 relative flex">
+        <div class="mr-4">
+          <i class="fa-solid fa-truck-fast text-blue-500 text-3xl"></i>
+        </div>
+        <div>
+          <h3 class="text-lg font-semibold text-white mb-2">Courier DS</h3>
+          <p class="text-gray-300">The all-in-all ERP Solution that can integrate every part of any Enterprise-level organization into one single platform.</p>
+        </div>
+        <span class="bg-gradient-to-r from-sky-600 to-blue-500 hover:to-sky-600 text-white py-1 px-2 rounded-full text-sm absolute top-2 right-2">Electronics</span>
+      </div>
+      
+      <!-- Card 3 -->
+      <div class="bg-transparent rounded-lg shadow-xl p-6 relative flex">
+        <div class="mr-4">
+          <i class="fa-solid fa-money-bill text-blue-500 text-3xl"></i>
+        </div>
+        <div>
+          <h3 class="text-lg font-semibold text-white mb-2">0xbyte CRM</h3>
+          <p class="text-gray-300">The all-in-all ERP Solution that can integrate every part of any Enterprise-level organization into one single platform.</p>
+        </div>
+        <span class="bg-gradient-to-r from-sky-600 to-blue-500 hover:to-sky-600 text-white py-1 px-2 rounded-full text-sm absolute top-2 right-2">Furniture</span>
       </div>
     </div>
+  </div>
+</div>
+
+
+
+
+
+
 
 
 
