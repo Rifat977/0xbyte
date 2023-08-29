@@ -80,57 +80,89 @@
 
     
     <div class="py-8 mt-8 lg:px-36">
-  <div class="container px-4 lg:px-0">
-    <div class="text-center mb-12">
-      <h2 class="text-4xl font-bold text-white">
-        <i class="fas fa-minus text-white"></i> Exclusive Products
-      </h2>
+      <div class="container px-4 lg:px-0">
+        <div class="text-center mb-12">
+          <h2 class="text-4xl font-bold text-white">
+            <i class="fas fa-minus text-white"></i> Exclusive Products
+          </h2>
+        </div>
+        
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+          <!-- Card 1 -->
+          <div class="bg-transparent rounded-lg shadow-xl p-6 relative flex">
+            <div class="mr-4">
+              <i class="fa-solid fa-shop text-blue-500 text-3xl"></i>
+            </div>
+            <div>
+              <h3 class="text-lg font-semibold text-white mb-2">Shop MS</h3>
+              <p class="text-gray-300">The all-in-all ERP Solution that can integrate every part of any Enterprise-level organization into one single platform.</p>
+            </div>
+            <span class="bg-gradient-to-r from-sky-600 to-blue-500 hover:to-sky-600 text-white py-1 px-2 rounded-full text-sm absolute top-2 right-2">Jewelry</span>
+          </div>
+          
+          <!-- Card 2 -->
+          <div class="bg-transparent rounded-lg shadow-xl p-6 relative flex">
+            <div class="mr-4">
+              <i class="fa-solid fa-truck-fast text-blue-500 text-3xl"></i>
+            </div>
+            <div>
+              <h3 class="text-lg font-semibold text-white mb-2">Courier DS</h3>
+              <p class="text-gray-300">The all-in-all ERP Solution that can integrate every part of any Enterprise-level organization into one single platform.</p>
+            </div>
+            <span class="bg-gradient-to-r from-sky-600 to-blue-500 hover:to-sky-600 text-white py-1 px-2 rounded-full text-sm absolute top-2 right-2">Electronics</span>
+          </div>
+          
+          <!-- Card 3 -->
+          <div class="bg-transparent rounded-lg shadow-xl p-6 relative flex">
+            <div class="mr-4">
+              <i class="fa-solid fa-money-bill text-blue-500 text-3xl"></i>
+            </div>
+            <div>
+              <h3 class="text-lg font-semibold text-white mb-2">0xbyte CRM</h3>
+              <p class="text-gray-300">The all-in-all ERP Solution that can integrate every part of any Enterprise-level organization into one single platform.</p>
+            </div>
+            <span class="bg-gradient-to-r from-sky-600 to-blue-500 hover:to-sky-600 text-white py-1 px-2 rounded-full text-sm absolute top-2 right-2">Furniture</span>
+          </div>
+        </div>
+      </div>
     </div>
-    
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-      <!-- Card 1 -->
-      <div class="bg-transparent rounded-lg shadow-xl p-6 relative flex">
-        <div class="mr-4">
-          <i class="fa-solid fa-shop text-blue-500 text-3xl"></i>
+
+    <div class="py-8 mt-8 lg:px-36">
+      <div class="container px-4 lg:px-0">
+        <div class="text-center mb-12">
+          <h2 class="text-4xl font-bold text-white">
+            <i class="fas fa-minus text-white"></i> Brands That Trust Us
+          </h2>
         </div>
-        <div>
-          <h3 class="text-lg font-semibold text-white mb-2">Shop MS</h3>
-          <p class="text-gray-300">The all-in-all ERP Solution that can integrate every part of any Enterprise-level organization into one single platform.</p>
+        
+        <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
+          <div class="flex items-center justify-center">
+            <img class="max-h-8" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Google_logo_%282013-2015%29.svg/1024px-Google_logo_%282013-2015%29.svg.png" alt="Brand 1">
+          </div>
+          <div class="flex items-center justify-center">
+            <img class="max-h-8" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Meta-Logo.png/2560px-Meta-Logo.png" alt="Brand 2">
+          </div>
+          <div class="flex items-center justify-center">
+            <img class="max-h-8" src="https://www.edigitalagency.com.au/wp-content/uploads/Spotify_Logo-png-RGB-Green.png" alt="Brand 3">
+          </div>
+          <div class="flex items-center justify-center">
+            <img class="max-h-8" src="https://assets.stickpng.com/images/5e8ce3cc664eae0004085464.png" alt="Brand 4">
+          </div>
+          <div class="flex items-center justify-center">
+            <img class="max-h-8" src="https://assets.stickpng.com/images/5842a629a6515b1e0ad75afa.png" alt="Brand 5">
+          </div>
+          <div class="flex items-center justify-center">
+            <img class="max-h-8" src="https://assets.stickpng.com/images/5842a770a6515b1e0ad75afe.png" alt="Brand 6">
+          </div>
+          <div class="flex items-center justify-center">
+            <img class="max-h-8" src="https://www.edigitalagency.com.au/wp-content/uploads/airbnb-logo-png-transparent-background.png" alt="Brand 7">
+          </div>
+          <div class="flex items-center justify-center">
+            <img class="max-h-8" src="https://yespartners.com/wp-content/uploads/2017/08/ibm-logo-png-transparent-background.png" alt="Brand 8">
+          </div>
         </div>
-        <span class="bg-gradient-to-r from-sky-600 to-blue-500 hover:to-sky-600 text-white py-1 px-2 rounded-full text-sm absolute top-2 right-2">Jewelry</span>
-      </div>
-      
-      <!-- Card 2 -->
-      <div class="bg-transparent rounded-lg shadow-xl p-6 relative flex">
-        <div class="mr-4">
-          <i class="fa-solid fa-truck-fast text-blue-500 text-3xl"></i>
-        </div>
-        <div>
-          <h3 class="text-lg font-semibold text-white mb-2">Courier DS</h3>
-          <p class="text-gray-300">The all-in-all ERP Solution that can integrate every part of any Enterprise-level organization into one single platform.</p>
-        </div>
-        <span class="bg-gradient-to-r from-sky-600 to-blue-500 hover:to-sky-600 text-white py-1 px-2 rounded-full text-sm absolute top-2 right-2">Electronics</span>
-      </div>
-      
-      <!-- Card 3 -->
-      <div class="bg-transparent rounded-lg shadow-xl p-6 relative flex">
-        <div class="mr-4">
-          <i class="fa-solid fa-money-bill text-blue-500 text-3xl"></i>
-        </div>
-        <div>
-          <h3 class="text-lg font-semibold text-white mb-2">0xbyte CRM</h3>
-          <p class="text-gray-300">The all-in-all ERP Solution that can integrate every part of any Enterprise-level organization into one single platform.</p>
-        </div>
-        <span class="bg-gradient-to-r from-sky-600 to-blue-500 hover:to-sky-600 text-white py-1 px-2 rounded-full text-sm absolute top-2 right-2">Furniture</span>
       </div>
     </div>
-  </div>
-</div>
-
-
-
-
-
 
 
 
