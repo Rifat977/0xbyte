@@ -83,7 +83,7 @@
   <div class="container px-4 lg:px-0">
     <div class="text-center mb-12">
       <h2 class="text-4xl font-bold text-white">
-        <i class="fas fa-minus text-indigo-500"></i> Exclusive Products
+        <i class="fas fa-minus text-white"></i> Exclusive Products
       </h2>
     </div>
     
