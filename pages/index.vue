@@ -146,7 +146,7 @@
             <img class="max-h-8" src="https://www.edigitalagency.com.au/wp-content/uploads/Spotify_Logo-png-RGB-Green.png" alt="Brand 3">
           </div>
           <div class="flex items-center justify-center">
-            <img class="max-h-8" src="https://assets.stickpng.com/images/5e8ce3cc664eae0004085464.png" alt="Brand 4">
+            <img class="max-h-8" src="https://assets.stickpng.com/images/58482f67cef1014c0b5e4a81.png" alt="Brand 4">
           </div>
           <div class="flex items-center justify-center">
             <img class="max-h-8" src="https://assets.stickpng.com/images/5842a629a6515b1e0ad75afa.png" alt="Brand 5">
