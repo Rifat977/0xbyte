@@ -47,16 +47,14 @@
 
 
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mt-8 md:mt-6 lg:mt-8 mx-4 md:mx-8 lg:mx-20">
-      <!-- Card 1 -->
       <Card />
       <Card />
       <Card />
       <Card />
       <Card />
       <Card />
-
-
     </div>
+    <Footer/>
   </div>
 </template>
 
