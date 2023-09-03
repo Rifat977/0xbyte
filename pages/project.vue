@@ -9,7 +9,7 @@
         </a>
         <div class="h-8 w-px bg-white"></div>
         <a href="#" class="text-white font-bold text-xl md:text-xl flex items-center space-x-2 transition-transform transform hover:scale-105">
-          Our History
+          Our Works
         </a>
       </div>
     </div>

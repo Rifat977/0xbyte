@@ -28,7 +28,7 @@ Over the years, we have [highlight some key achievements or milestones] and have
         </p>
       </div>
       <div class="">
-        <img src="https://media-public.canva.com/2D-hU/MAEbhJ2D-hU/1/s2-1.svg" alt="Mission and Vision Image" class="rounded-lg mx-auto h-full p-2">
+        <img src="https://media-public.canva.com/2D-hU/MAEbhJ2D-hU/1/s2-1.svg" alt="Mission and Vision Image" class="rounded-lg mx-auto h-full p-6">
       </div>
     </div>
   </section>
