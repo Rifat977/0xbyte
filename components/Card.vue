@@ -1,5 +1,5 @@
 <template>
-    <div class="block max-w-sm lg:ml-7 rounded-lg shadow-xl dark:hover:bg-indigo-900 mb-6">
+    <div class="block max-w-sm lg:ml-7 rounded-lg shadow-xl dark:hover:bg-sky-800 mb-6">
         <img src="https://png.pngtree.com/png-vector/20220803/ourmid/pngtree-office-situation-discussion-vector-illustration-png-image_5720444.png"
             alt="Project Image" class="w-full object-cover mb-4 rounded-md" />
         <div class="px-6 py-4">

@@ -3,22 +3,22 @@
     <Topbar :activeMenu="activeMenu" />
     <Logo />
     <div class="pl-6 lg:pr-36 lg:pl-36">
-      <div class="container mx-auto flex items-center space-x-4">
-        <a href="#" class="text-white font-bold text-xl md:text-xl flex items-center space-x-2 transition-transform transform hover:scale-105">
+      <nav class="container mx-auto py-6">
+        <a href="#" class="text-white font-bold text-xl md:text-xl hover:scale-105">
           Home
         </a>
-        <div class="h-8 w-px bg-white"></div>
-        <a href="#" class="text-white font-bold text-xl md:text-xl flex items-center space-x-2 transition-transform transform hover:scale-105">
+        <span class="text-white mx-2">/</span>
+        <a href="#" class="text-white font-bold text-xl md:text-xl hover:scale-105">
           Our Works
         </a>
-      </div>
+      </nav>
     </div>
 
-    <div class="mt-6">
+    <div class="mt-2">
       <div class="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="grid grid-cols-1 gap-6 md:grid-cols-2">
           <!-- Card 1 -->
-          <div class="overflow-hidden shadow-xl sm:rounded-lg dark:hover:bg-indigo-900">
+          <div class="overflow-hidden shadow-xl sm:rounded-lg dark:hover:bg-sky-700">
             <div class="px-4 py-5 sm:p-6">
               <div class="sm:flex sm:items-center">
                 <div class="text-center sm:text-left">
@@ -30,7 +30,7 @@
             </div>
           </div>
           <!-- Card 2 -->
-          <div class="overflow-hidden shadow-xl sm:rounded-lg dark:hover:bg-indigo-900">
+          <div class="overflow-hidden shadow-xl sm:rounded-lg dark:hover:bg-sky-700">
             <div class="px-4 py-5 sm:p-6">
               <div class="sm:flex sm:items-center">
                 <div class="text-center sm:text-left">
@@ -54,7 +54,6 @@
       <Card />
       <Card />
     </div>
-    <Footer/>
   </div>
 </template>
 

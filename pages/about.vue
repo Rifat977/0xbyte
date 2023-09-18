@@ -38,8 +38,6 @@
         </div>
       </section>
 
-      <Footer/>
-
     </div>
 
 
