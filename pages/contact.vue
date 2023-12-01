@@ -27,55 +27,55 @@
           </p>
         </div>
 
-        <div class="bg-white overflow-hidden shadow-xl sm:rounded-lg mt-6 p-6">
+        <div class="overflow-hidden shadow-xl sm:rounded-lg mt-6 p-6">
           <dl class="grid grid-cols-1 gap-x-4 gap-y-6 sm:grid-cols-3">
             <div class="sm:col-span-1">
-              <dt class="text-sm font-medium text-gray-500">
+              <dt class="text-sm font-medium text-white">
                 Email
               </dt>
-              <dd class="mt-1 text-sm text-gray-900">
+              <dd class="mt-1 text-sm text-gray-400">
                 info@0xbyte.com
               </dd>
             </div>
             <div class="sm:col-span-1">
-              <dt class="text-sm font-medium text-gray-500">
+              <dt class="text-sm font-medium text-white">
                 Phone Number
               </dt>
-              <dd class="mt-1 text-sm text-gray-900">
+              <dd class="mt-1 text-sm text-gray-400">
                 +88 017 3650 6590
               </dd>
             </div>
             <div class="sm:col-span-1">
-              <dt class="text-sm font-medium text-gray-500">
+              <dt class="text-sm font-medium text-white">
                 Phone Number
               </dt>
-              <dd class="mt-1 text-sm text-gray-900">
+              <dd class="mt-1 text-sm text-gray-400">
                 +88 017 3650 6590
               </dd>
             </div>
             <div class="sm:col-span-3">
-              <dt class="text-sm font-medium text-gray-500">
+              <dt class="text-sm font-medium text-white">
                 Name
               </dt>
               <input type="text" class="mt-1 p-3 w-full border rounded-md focus:ring-indigo-500 focus:border-indigo-500"
                 placeholder="Your Name" />
             </div>
             <div class="sm:col-span-3">
-              <dt class="text-sm font-medium text-gray-500">
+              <dt class="text-sm font-medium text-white">
                 Email
               </dt>
               <input type="email" class="mt-1 p-3 w-full border rounded-md focus:ring-indigo-500 focus:border-indigo-500"
                 placeholder="Your Email" />
             </div>
             <div class="sm:col-span-3">
-              <dt class="text-sm font-medium text-gray-500">
+              <dt class="text-sm font-medium text-white">
                 Phone Number
               </dt>
               <input type="tel" class="mt-1 p-3 w-full border rounded-md focus:ring-indigo-500 focus:border-indigo-500"
                 placeholder="Your Phone Number" />
             </div>
             <div class="sm:col-span-3">
-              <dt class="text-sm font-medium text-gray-500">
+              <dt class="text-sm font-medium text-white">
                 Message
               </dt>
               <textarea rows="4" class="mt-1 p-3 w-full border rounded-md focus:ring-indigo-500 focus:border-indigo-500"
@@ -85,7 +85,7 @@
         </div>
         <div class="bg-transparent overflow-hidden sm:rounded-lg mt-6 p-6">
           <button
-            class="inline-flex items-center justify-center w-full px-6 py-3 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-indigo-600 hover:bg-indigo-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 transition-transform transform hover:scale-105">
+            class="inline-flex items-center justify-center w-full px-6 py-3 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-sky-700 hover:bg-sky-800 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 transition-transform transform hover:scale-105">
             Submit
           </button>
         </div>
