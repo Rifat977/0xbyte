@@ -1,8 +1,18 @@
 <template>
     <div class="container mx-auto px-4 py-8">
-      <footer class="bg-primary text-gray-200 rounded-lg py-8 md:py-12">
+      <footer class=" text-gray-200 rounded-lg py-8 md:py-12" style="background-color:#0d3f6b">
         <div class="container mx-auto text-center">
-          <div class="lg:flex lg:justify-between lg:items-center">
+
+          <div class="">
+            <h2 class="text-xl md:text-2xl font-semibold mb-4"><Logo /> </h2>
+            <p class="p-4">
+              Discover excellence with 0<span class="text-blue">xByte</span> – your guide to embracing the digital frontier.
+            We specialize in decoding complexities, offering insights, and empowering businesses with transformative
+            solutions.
+            </p>
+          </div>
+
+          <div class="lg:flex lg:justify-between lg:items-center mt-4 md:mt-8">
             <div class="lg:w-1/3">
               <h2 class="text-xl md:text-2xl font-semibold mb-4">Useful Links</h2>
               <ul class="space-y-2">
@@ -33,15 +43,7 @@
               </ul>
             </div>
           </div>
-          <div class="mt-8 md:mt-12">
-            <h2 class="text-xl md:text-2xl font-semibold mb-4">Work Hours</h2>
-            <p class="">
-              It’s time to have the most incredible software experience where our problem will meet its solution in the
-              most
-              transparent way. So, what are you waiting for?
-            </p>
-            <p class="mt-4">9 AM - 6 PM, Sunday-Thursday</p>
-          </div>
+          
           <div class="mt-8 opacity-80">
             &copy; 2023, 0xbyte All rights reserved.
           </div>
