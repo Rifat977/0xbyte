@@ -1,7 +1,7 @@
 <template>
     <div class="bg-transparent rounded-lg shadow-xl p-6 relative flex">
         <div class="mr-4">
-            <i class="fa-solid fa-shop text-blue-500 text-3xl"></i>
+            <i class="fa-solid fa-folder-open text-blue-300 text-3xl"></i>
         </div>
         <div>
             <h3 class="text-lg font-semibold text-white mb-2">{{ name }}</h3>

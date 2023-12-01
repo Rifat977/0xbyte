@@ -116,73 +116,23 @@
           <OurProducts name="Point of Sale"
             description="The all-in-all ERP Solution that can integrate every part of any Enterprise-levelorganization into one single platform."
             category="Web" />
-          <OurProducts name="Point of Sale"
+          <OurProducts name="CRM"
             description="The all-in-all ERP Solution that can integrate every part of any Enterprise-levelorganization into one single platform."
             category="Web" />
-          <OurProducts name="Point of Sale"
+          <OurProducts name="ERP"
             description="The all-in-all ERP Solution that can integrate every part of any Enterprise-levelorganization into one single platform."
             category="Web" />
-          <OurProducts name="Point of Sale"
+          <OurProducts name="Test App"
             description="The all-in-all ERP Solution that can integrate every part of any Enterprise-levelorganization into one single platform."
-            category="Web" />
-          <OurProducts name="Point of Sale"
+            category="Android" />
+          <OurProducts name="Test App 2"
             description="The all-in-all ERP Solution that can integrate every part of any Enterprise-levelorganization into one single platform."
-            category="Web" />
-          <OurProducts name="Point of Sale"
+            category="AI/ML" />
+          <OurProducts name="Test App 3"
             description="The all-in-all ERP Solution that can integrate every part of any Enterprise-levelorganization into one single platform."
             category="Web" />
         </div>
 
-      </div>
-    </div>
-
-    <div class="py-8 mt-8 lg:px-36">
-      <div class="container px-4 lg:px-0">
-        <div class="text-center mb-12">
-          <h2 class="text-4xl font-bold text-white">
-            <i class="fas fa-minus text-white"></i> Brands That Trust Us
-          </h2>
-        </div>
-
-        <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
-          <div class="flex items-center justify-center">
-            <img class="max-h-8"
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Google_logo_%282013-2015%29.svg/1024px-Google_logo_%282013-2015%29.svg.png"
-              alt="Brand 1">
-          </div>
-          <div class="flex items-center justify-center">
-            <img class="max-h-8"
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Google_logo_%282013-2015%29.svg/1024px-Google_logo_%282013-2015%29.svg.png"
-              alt="Brand 1">
-          </div>
-          <div class="flex items-center justify-center">
-            <img class="max-h-8" src="https://www.edigitalagency.com.au/wp-content/uploads/Spotify_Logo-png-RGB-Green.png"
-              alt="Brand 3">
-          </div>
-          <div class="flex items-center justify-center">
-            <img class="max-h-8" src="https://www.edigitalagency.com.au/wp-content/uploads/Spotify_Logo-png-RGB-Green.png"
-              alt="Brand 3">
-          </div>
-          <div class="flex items-center justify-center">
-            <img class="max-h-8" src="https://gpm.nasa.gov/sites/default/files/document_files/NASA-Logo-Large.png"
-              alt="Brand 5">
-          </div>
-          <div class="flex items-center justify-center">
-            <img class="max-h-8"
-              src="https://www.edigitalagency.com.au/wp-content/uploads/airbnb-logo-png-transparent-background.png"
-              alt="Brand 7">
-          </div>
-          <div class="flex items-center justify-center">
-            <img class="max-h-8"
-              src="https://www.edigitalagency.com.au/wp-content/uploads/airbnb-logo-png-transparent-background.png"
-              alt="Brand 7">
-          </div>
-          <div class="flex items-center justify-center">
-            <img class="max-h-8"
-              src="https://yespartners.com/wp-content/uploads/2017/08/ibm-logo-png-transparent-background.png"
-              alt="Brand 8">
-          </div>
-        </div>
       </div>
     </div>
 
@@ -260,6 +210,56 @@
         </div>
       </div>
     </section>
+
+    <div class="py-8 mt-8 lg:px-36">
+      <div class="container px-4 lg:px-0">
+        <div class="text-center mb-12">
+          <h2 class="text-4xl font-bold text-white">
+            <i class="fas fa-minus text-white"></i> Brands That Trust Us
+          </h2>
+        </div>
+
+        <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
+          <div class="flex items-center justify-center">
+            <img class="max-h-8"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Walmart_logo.svg/1200px-Walmart_logo.svg.png"
+              alt="Brand 1">
+          </div>
+          <div class="flex items-center justify-center">
+            <img class="max-h-8"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Google_logo_%282013-2015%29.svg/1024px-Google_logo_%282013-2015%29.svg.png"
+              alt="Brand 1">
+          </div>
+          <div class="flex items-center justify-center">
+            <img class="max-h-8" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/2560px-Microsoft_logo_%282012%29.svg.png"
+              alt="Brand 3">
+          </div>
+          <div class="flex items-center justify-center">
+            <img class="max-h-8" src="https://www.edigitalagency.com.au/wp-content/uploads/Spotify_Logo-png-RGB-Green.png"
+              alt="Brand 3">
+          </div>
+          <div class="flex items-center justify-center">
+            <img class="max-h-8" src="https://gpm.nasa.gov/sites/default/files/document_files/NASA-Logo-Large.png"
+              alt="Brand 5">
+          </div>
+          <div class="flex items-center justify-center">
+            <img class="max-h-8"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/2560px-Amazon_logo.svg.png"
+              alt="Brand 7">
+          </div>
+          <div class="flex items-center justify-center">
+            <img class="max-h-8"
+              src="https://www.edigitalagency.com.au/wp-content/uploads/airbnb-logo-png-transparent-background.png"
+              alt="Brand 7">
+          </div>
+          <div class="flex items-center justify-center">
+            <img class="max-h-8"
+              src="https://yespartners.com/wp-content/uploads/2017/08/ibm-logo-png-transparent-background.png"
+              alt="Brand 8">
+          </div>
+        </div>
+      </div>
+    </div>
 
     <Footer/>
 
