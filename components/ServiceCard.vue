@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-transparent p-6 rounded shadow-xl hover:scale-105 transition-transform">
+  <div class="bg-transparent p-6 rounded shadow-2xl hover:scale-105 transition-transform">
       <div class="flex items-center justify-center mb-2">
         <img :src="icon" alt="UI/UX Design Icon" class="w-20 h-20">
       </div>

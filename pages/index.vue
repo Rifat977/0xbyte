@@ -15,7 +15,7 @@
           possibilities.
         </p>
         <div class="flex justify-center lg:justify-start space-x-4">
-          <button class="outline outline-blue-500 rounded focus:outline-none hover:bg-blue-500 duration-300"
+          <button class="outline outline-blue-500 text-white rounded focus:outline-none hover:bg-blue-500 duration-300"
             style="padding: 10px 20px; border-radius: 8px;">
             Get Started
           </button>
@@ -29,7 +29,7 @@
     </section>
 
     <section class="bg-transparent py-8 mt-8 lg:pr-36 lg:pl-36">
-      <div class="container px-4 lg:px-0">
+      <div class="container mx-auto">
         <div class="justify-center items-center">
           <h2 class="text-4xl font-bold mb-10 text-center text-white"><i class="fa-solid fa-minus"></i> 0xByte's Service
             Excellence</h2>
@@ -55,9 +55,9 @@
     </section>
 
     <div class="bg-transparent py-8 mt-8 lg:px-36">
-      <div class="container px-4 lg:px-0">
+      <div class="container mx-auto">
         <div class="justify-center items-center">
-          <h2 class="text-4xl font-bold mb-12 text-center text-white"><i class="fa-solid fa-minus"></i> 0xByte's Works
+          <h2 class="text-4xl font-bold mb-12 text-center text-white"><i class="fa-solid fa-minus"></i> 0xByte's Products
           </h2>
         </div>
         <div class="grid grid-cols-1 md:grid-cols-1 gap-8">
@@ -105,10 +105,10 @@
     </div>
 
     <div class="bg-transparent py-8 mt-8 lg:px-36">
-      <div class="container px-4 lg:px-0">
+      <div class="container mx-auto">
         <div class="text-center mb-12">
           <h2 class="text-4xl font-bold text-white">
-            <i class="fas fa-minus text-white"></i> Exclusive Products
+            <i class="fas fa-minus text-white"></i> Exclusive Works
           </h2>
         </div>
 
